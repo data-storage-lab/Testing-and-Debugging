@@ -11,3 +11,7 @@ Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage React
 Torturing Databases for Fun and Profit (OSDI'14)
 
 IRON File Systems (SOSP'05)
+
+## Related git repos
+- A list of resources on testing distributed systems curated by Andrey Satarin. https://github.com/asatarin/testing-distributed-systems#research-papers
+
