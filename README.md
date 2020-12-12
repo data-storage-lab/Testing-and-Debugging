@@ -10,7 +10,7 @@ Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage React
 
 Torturing Databases for Fun and Profit (OSDI'14)
 
-IRON File Systems (SOSP'05)
+[IRON File Systems](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/05-iron-sosp05.pdf) (SOSP'05)
 
 ## Related git repos
 - A list of resources on testing distributed systems curated by Andrey Satarin. https://github.com/asatarin/testing-distributed-systems#research-papers
