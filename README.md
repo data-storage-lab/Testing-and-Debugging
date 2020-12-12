@@ -1,6 +1,6 @@
 # Fault Injection
 
-Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection (Security'20)
+- Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection (Security'20)
 
 PMTest: A Fast and Flexible Testing Framework for Persistent Memory Programs (ASPOS'19)
 
