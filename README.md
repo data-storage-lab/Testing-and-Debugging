@@ -13,6 +13,8 @@
     - [You can’t debug what you can’t see: Expanding observability with the OmniTable](https://dl.acm.org/doi/pdf/10.1145/3317550.3321428) (HotOS'19)
     - [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/system/files/osdi18-cui.pdf) (OSDI'18)
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
+- Survey
+    - []
 ## Related git repos
 - A list of resources on testing distributed systems curated by Andrey Satarin. https://github.com/asatarin/testing-distributed-systems#research-papers
 
