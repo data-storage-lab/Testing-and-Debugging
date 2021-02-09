@@ -15,6 +15,10 @@
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
 - Bug Study
     - [What bugs cause production cloud incidents?](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/19_survey.pdf) (HotOS'19)
+    - [Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages](https://drj.com/wp-content/uploads/2018/07/socc16-cos.pdf) (SoCC'16)
+    - [Understanding Issue Correlations: A Case Study of the Hadoop System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.7837&rep=rep1&type=pdf) (SoCC'15) 
+    - [A Study of Linux File Systems Evolution](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf) (FAST'13)
+    - [Learning from Mistakes — A Comprehensive Study on Real World Concurrency Bug Characteristics](http://web1.cs.columbia.edu/~junfeng/10fa-e6998/papers/concurrency-bugs.pdf) (ASPLOS'08)
 ## Related git repos
 - A list of resources on testing distributed systems curated by Andrey Satarin. https://github.com/asatarin/testing-distributed-systems#research-papers
 
