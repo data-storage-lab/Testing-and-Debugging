@@ -18,7 +18,7 @@
     - [Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages](https://www.ece.iastate.edu/~mai/docs/papers/2016_SoCC_COS.pdf) (SoCC'16)
     - [Understanding Issue Correlations: A Case Study of the Hadoop System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.7837&rep=rep1&type=pdf) (SoCC'15) 
     - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) (OSDI'14)
-    - [Why does cryptographic software fail? A case study and open problems] (https://pdos.csail.mit.edu/papers/cryptobugs:apsys14.pdf) (APSys'14)
+    - [Why does cryptographic software fail? A case study and open problems](https://pdos.csail.mit.edu/papers/cryptobugs:apsys14.pdf) (APSys'14)
     - [A Study of Linux File Systems Evolution](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf) (FAST'13)
     - [Learning from Mistakes — A Comprehensive Study on Real World Concurrency Bug Characteristics](http://web1.cs.columbia.edu/~junfeng/10fa-e6998/papers/concurrency-bugs.pdf) (ASPLOS'08)
 ## Related git repos
