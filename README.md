@@ -20,6 +20,7 @@
     - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) (OSDI'14)
     - [Why does cryptographic software fail? A case study and open problems](https://pdos.csail.mit.edu/papers/cryptobugs:apsys14.pdf) (APSys'14)
     - [A Study of Linux File Systems Evolution](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf) (FAST'13)
+    - [Linux kernel vulnerabilities: State-of-the-art defenses and open problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf) (APSys'11)
     - [Learning from Mistakes — A Comprehensive Study on Real World Concurrency Bug Characteristics](http://web1.cs.columbia.edu/~junfeng/10fa-e6998/papers/concurrency-bugs.pdf) (ASPLOS'08)
 ## Related git repos
 - A list of resources on testing distributed systems curated by Andrey Satarin. https://github.com/asatarin/testing-distributed-systems#research-papers
