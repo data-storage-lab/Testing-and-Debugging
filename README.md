@@ -13,7 +13,7 @@
     - [You can’t debug what you can’t see: Expanding observability with the OmniTable](https://dl.acm.org/doi/pdf/10.1145/3317550.3321428) (HotOS'19)
     - [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/system/files/osdi18-cui.pdf) (OSDI'18)
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
-- Bug Study
+- Empirical Study
     - [What bugs cause production cloud incidents?](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/19_survey.pdf) (HotOS'19)
     - [Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages](https://www.ece.iastate.edu/~mai/docs/papers/2016_SoCC_COS.pdf) (SoCC'16)
     - [Understanding Issue Correlations: A Case Study of the Hadoop System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.7837&rep=rep1&type=pdf) (SoCC'15) 
