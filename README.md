@@ -15,6 +15,7 @@
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
 - Empirical Study
     - [What bugs cause production cloud incidents?](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/19_survey.pdf) (HotOS'19)
+    - [Coccinelle: 10 Years of Automated Evolution in the Linux Kernel](https://www.usenix.org/system/files/conference/atc18/atc18-lawall.pdf) (ATC'18)
     - [Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages](https://www.ece.iastate.edu/~mai/docs/papers/2016_SoCC_COS.pdf) (SoCC'16)
     - [Understanding Issue Correlations: A Case Study of the Hadoop System](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.7837&rep=rep1&type=pdf) (SoCC'15) 
     - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf) (OSDI'14)
