@@ -23,6 +23,7 @@
     - [A Study of Linux File Systems Evolution](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf) (FAST'13)
     - [Do Not Blame Users for Misconfigurations](https://cseweb.ucsd.edu/~tixu/papers/sosp13.pdf) (SOSP'13)
     - [Linux kernel vulnerabilities: State-of-the-art defenses and open problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf) (APSys'11)
+    - [An Empirical Study on Configuration Errors in Commercial and Open Source Systems](http://opera.ucsd.edu/paper/sosp11-yin.pdf) (SOSP'11)
     - [Learning from Mistakes — A Comprehensive Study on Real World Concurrency Bug Characteristics](http://web1.cs.columbia.edu/~junfeng/10fa-e6998/papers/concurrency-bugs.pdf) (ASPLOS'08)
     - [Taxonomy of Linux Kernel Vulnerability Solutions](https://spectrum.library.concordia.ca/7809/1/report.pdf) (Tech Report)
     - [Vulnerability Type Distributions in CVE](https://cve.mitre.org/docs/vuln-trends/vuln-trends.pdf) (Tech Report)
