@@ -7,6 +7,7 @@
     - [Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/fast17-ganesan.pdf) (FAST'17)
     - [Torturing Databases for Fun and Profit](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/osdi14-paper-zheng_mai.pdf) (OSDI'14)
     - [Automated Vulnerability Discovery in Distributed Systems](https://dslab.epfl.ch/pubs/AVD.pdf) (HotDep '11)
+    - [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/pubs/conferr.pdf) (DSN'08)
     - [IRON File Systems](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/05-iron-sosp05.pdf) (SOSP'05)
 - Debugging
     - [Reverse Debugging of Kernel Failures in Deployed Systems](https://www.usenix.org/system/files/atc20-ge.pdf) (ATC'20)
