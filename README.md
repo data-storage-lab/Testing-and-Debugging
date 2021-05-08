@@ -14,6 +14,8 @@
     - [You can’t debug what you can’t see: Expanding observability with the OmniTable](https://dl.acm.org/doi/pdf/10.1145/3317550.3321428) (HotOS'19)
     - [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/system/files/osdi18-cui.pdf) (OSDI'18)
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
+    - [Hardware Breakpoint (or watchpoint) usage in Linux Kernel](https://www.kernel.org/doc/ols/2009/ols2009-pages-149-158.pdf) (Proceedings of the
+Linux Symposium 2009)
 - Empirical Study
     - [What bugs cause production cloud incidents?](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/19_survey.pdf) (HotOS'19)
     - [Coccinelle: 10 Years of Automated Evolution in the Linux Kernel](https://www.usenix.org/system/files/conference/atc18/atc18-lawall.pdf) (ATC'18)
