@@ -1,5 +1,8 @@
 # Testing and Debugging
 
+- Model Checking
+    - [EXPLODE: a Lightweight, General System for Finding Serious StorageSystem Errors](https://web.stanford.edu/~engler/explode-osdi06.pdf) (OSDI'06)
+    - [Jaaru: Efficiently Model Checking Persistent Memory Programs](https://web.cs.ucla.edu/~harryxu/papers/jaaru-asplos21.pdf)(ASPLOS'21)
 - Fault Injection
     - [Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/sec20-jiang.pdf) (Security'20)
     - [PMTest: A Fast and Flexible Testing Framework for Persistent Memory Programs](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/pmtest-asplos2019.pdf) (ASPOS'19)
