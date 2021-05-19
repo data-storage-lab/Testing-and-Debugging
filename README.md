@@ -35,7 +35,7 @@ Linux Symposium 2009)
     - [Vulnerability Type Distributions in CVE](https://cve.mitre.org/docs/vuln-trends/vuln-trends.pdf) (Tech Report)
     - [An Empirical Study of Operating Systems Errors](https://people.engr.ncsu.edu/gjin2/Classes/591/Spring2017/case-os-errors.pdf) (SOSP'01)
     - [Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions](https://www.usenix.org/legacy/events/osdi2000/engler/engler.pdf) (OSDI'00)
--Configuration Bug Detection
+- Configuration Bug Detection
     - [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/system/files/osdi20-sun.pdf) (OSDI'20)
     - [Early Detection of Configuration Errors to Reduce Failure Damage](https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf) (OSDI'16)
     - [Do Not Blame Users for Misconfigurations](http://cseweb.ucsd.edu/~tixu/papers/sosp13.pdf) (SOSP'13)
