@@ -10,7 +10,6 @@
     - [Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/fast17-ganesan.pdf) (FAST'17)
     - [Torturing Databases for Fun and Profit](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/osdi14-paper-zheng_mai.pdf) (OSDI'14)
     - [Automated Vulnerability Discovery in Distributed Systems](https://dslab.epfl.ch/pubs/AVD.pdf) (HotDep '11)
-    - [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/pubs/conferr.pdf) (DSN'08)
     - [IRON File Systems](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/05-iron-sosp05.pdf) (SOSP'05)
 - Debugging
     - [Reverse Debugging of Kernel Failures in Deployed Systems](https://www.usenix.org/system/files/atc20-ge.pdf) (ATC'20)
@@ -36,6 +35,11 @@ Linux Symposium 2009)
     - [Vulnerability Type Distributions in CVE](https://cve.mitre.org/docs/vuln-trends/vuln-trends.pdf) (Tech Report)
     - [An Empirical Study of Operating Systems Errors](https://people.engr.ncsu.edu/gjin2/Classes/591/Spring2017/case-os-errors.pdf) (SOSP'01)
     - [Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions](https://www.usenix.org/legacy/events/osdi2000/engler/engler.pdf) (OSDI'00)
+-Configuration Bug Detection
+    - [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/system/files/osdi20-sun.pdf) (OSDI'20)
+    - [Early Detection of Configuration Errors to Reduce Failure Damage](https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf) (OSDI'16)
+    - [Do Not Blame Users for Misconfigurations](http://cseweb.ucsd.edu/~tixu/papers/sosp13.pdf) (SOSP'13)
+    - [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/pubs/conferr.pdf) (DSN'08)
 ## Related git repos
 - A list of resources on testing distributed systems curated by Andrey Satarin. https://github.com/asatarin/testing-distributed-systems#research-papers
 
