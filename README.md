@@ -18,6 +18,7 @@
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
     - [Hardware Breakpoint (or watchpoint) usage in Linux Kernel](https://www.kernel.org/doc/ols/2009/ols2009-pages-149-158.pdf) (Proceedings of the
 Linux Symposium 2009)
+    - [Guest Operatiing System Debugging](https://git.ece.iastate.edu/data-storage-lab/dsl-techhub/fault-injection/-/blob/master/paper/01x10-David_Hildebrand-Guest-operating_system_debugging.pdf)
 - Empirical Study
     - [What bugs cause production cloud incidents?](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/19_survey.pdf) (HotOS'19)
     - [Coccinelle: 10 Years of Automated Evolution in the Linux Kernel](https://www.usenix.org/system/files/conference/atc18/atc18-lawall.pdf) (ATC'18)
