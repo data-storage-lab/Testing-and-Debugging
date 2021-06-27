@@ -40,6 +40,7 @@ Linux Symposium 2009)
 - Configuration Bug Detection
     - [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/system/files/osdi20-sun.pdf) (OSDI'20)
     - [Early Detection of Configuration Errors to Reduce Failure Damage](https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf) (OSDI'16)
+    - [Which Configuration Option Should I Change?](https://homes.cs.washington.edu/~mernst/pubs/confsuggester-icse2014.pdf) (ICSE'14)
     - [Do Not Blame Users for Misconfigurations](http://cseweb.ucsd.edu/~tixu/papers/sosp13.pdf) (SOSP'13)
     - [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/pubs/conferr.pdf) (DSN'08)
 ## Related git repos
