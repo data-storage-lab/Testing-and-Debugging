@@ -16,6 +16,7 @@
     - [Reverse Debugging of Kernel Failures in Deployed Systems](https://www.usenix.org/system/files/atc20-ge.pdf) (ATC'20)
     - [You can’t debug what you can’t see: Expanding observability with the OmniTable](https://dl.acm.org/doi/pdf/10.1145/3317550.3321428) (HotOS'19)
     - [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/system/files/osdi18-cui.pdf) (OSDI'18)
+    - [LAVA: Large-scale Automated Vulnerability Addition](http://css.csail.mit.edu/6.858/2018/readings/lava.pdf) (S&P'16)
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
     - [Hardware Breakpoint (or watchpoint) usage in Linux Kernel](https://www.kernel.org/doc/ols/2009/ols2009-pages-149-158.pdf) (Proceedings of the
 Linux Symposium 2009)
