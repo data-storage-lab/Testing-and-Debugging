@@ -12,6 +12,7 @@
     - [Automated Vulnerability Discovery in Distributed Systems](https://dslab.epfl.ch/pubs/AVD.pdf) (HotDep '11)
     - [IRON File Systems](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/05-iron-sosp05.pdf) (SOSP'05)
 - Debugging
+    - [Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing](https://www.usenix.org/system/files/atc21-weng.pdf) (ATC'21)
     - [Lossless Instruction-to-Object Memory Tracing in the Linux Kernel](https://dl.acm.org/doi/pdf/10.1145/3456727.3463767) (SYSTOR'21)
     - [Reverse Debugging of Kernel Failures in Deployed Systems](https://www.usenix.org/system/files/atc20-ge.pdf) (ATC'20)
     - [You can’t debug what you can’t see: Expanding observability with the OmniTable](https://dl.acm.org/doi/pdf/10.1145/3317550.3321428) (HotOS'19)
