@@ -40,6 +40,7 @@ Linux Symposium 2009)
     - [An Empirical Study of Operating Systems Errors](https://people.engr.ncsu.edu/gjin2/Classes/591/Spring2017/case-os-errors.pdf) (SOSP'01)
     - [Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions](https://www.usenix.org/legacy/events/osdi2000/engler/engler.pdf) (OSDI'00)
 - Configuration Bug Detection
+    - - [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
     - [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/system/files/osdi20-sun.pdf) (OSDI'20)
     - [Early Detection of Configuration Errors to Reduce Failure Damage](https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf) (OSDI'16)
     - [Which Configuration Option Should I Change?](https://homes.cs.washington.edu/~mernst/pubs/confsuggester-icse2014.pdf) (ICSE'14)
