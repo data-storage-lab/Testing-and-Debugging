@@ -4,6 +4,7 @@
     - [EXPLODE: a Lightweight, General System for Finding Serious StorageSystem Errors](https://web.stanford.edu/~engler/explode-osdi06.pdf) (OSDI'06)
     - [Jaaru: Efficiently Model Checking Persistent Memory Programs](https://web.cs.ucla.edu/~harryxu/papers/jaaru-asplos21.pdf) (ASPLOS'21)
 - Fault Injection
+    - [Service-Level Fault Injection Testing](https://dl.acm.org/doi/10.1145/3472883.3487005) (SoCC'21)
     - [Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/sec20-jiang.pdf) (Security'20)
     - [PMTest: A Fast and Flexible Testing Framework for Persistent Memory Programs](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/pmtest-asplos2019.pdf) (ASPOS'19)
     - [PFault: A General Framework for Analyzing the Reliability of High-Performance Parallel File Systems](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/2018_ICS_PFault.pdf) (ICS'18)
