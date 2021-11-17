@@ -44,6 +44,8 @@ Linux Symposium 2009)
 - Configuration Bug Detection
     - [Understanding and Discovering Software Configuration Dependencies in Cloud and Datacenter Systems](https://www.cs.cornell.edu/~legunsen/pubs/ChenETAL20CDep.pdf) (ESEC/FSE'20)
     - [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/system/files/osdi20-sun.pdf) (OSDI'20)
+    - [PracExtractor: Extracting Configuration Good Practices from Manuals to Detect  Server Misconfigurations](https://www.usenix.org/system/files/atc20-xiang_0.pdf) (ATC'20)
+    - [Understanding and Auto-Adjusting Performance-Sensitive Configurations](https://people.cs.uchicago.edu/~hankhoffmann/autoconf.pdf) (ASPLOS'18)
     - [Early Detection of Configuration Errors to Reduce Failure Damage](https://www.usenix.org/system/files/conference/osdi16/osdi16-xu.pdf) (OSDI'16)
     - [Which Configuration Option Should I Change?](https://homes.cs.washington.edu/~mernst/pubs/confsuggester-icse2014.pdf) (ICSE'14)
     - [Mining Configuration Constraints: Static Analyses and Empirical Results](https://www.cs.cmu.edu/~ckaestne/pdf/icse14_mining.pdf) (ICSE'14)
