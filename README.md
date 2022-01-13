@@ -50,6 +50,7 @@ Linux Symposium 2009)
     - [Which Configuration Option Should I Change?](https://homes.cs.washington.edu/~mernst/pubs/confsuggester-icse2014.pdf) (ICSE'14)
     - [Mining Configuration Constraints: Static Analyses and Empirical Results](https://www.cs.cmu.edu/~ckaestne/pdf/icse14_mining.pdf) (ICSE'14)
     - [Do Not Blame Users for Misconfigurations](http://cseweb.ucsd.edu/~tixu/papers/sosp13.pdf) (SOSP'13)
+    - [CONFU: Configuration Fuzzing Testing Framework for Software Vulnerability Detection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2964869/) (IJSSE'10)
     - [ConfErr: A Tool for Assessing Resilience to Human Configuration Errors](https://dslab.epfl.ch/pubs/conferr.pdf) (DSN'08)
     - [Hippodrome: Running Circles Around Storage Administration](https://www.usenix.org/legacy/publications/library/proceedings/fast02/full_papers/andersonHIP/andersonHIP.pdf) (FAST'02)
 ## Related git repos
