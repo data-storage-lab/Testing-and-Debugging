@@ -12,7 +12,8 @@
     - [Torturing Databases for Fun and Profit](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/osdi14-paper-zheng_mai.pdf) (OSDI'14)
     - [Automated Vulnerability Discovery in Distributed Systems](https://dslab.epfl.ch/pubs/AVD.pdf) (HotDep '11)
     - [IRON File Systems](https://git.ece.iastate.edu/data-storage-lab/papers/fault-injection/-/blob/master/paper/05-iron-sosp05.pdf) (SOSP'05)
-- Debugging
+- Debugging 
+    - [Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores](https://www3.cs.stonybrook.edu/~dongyoon/papers/SOSP-21-Witcher.pdf)(SOSP’21)
     - [Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing](https://www.usenix.org/system/files/atc21-weng.pdf) (ATC'21)
     - [Lossless Instruction-to-Object Memory Tracing in the Linux Kernel](https://dl.acm.org/doi/pdf/10.1145/3456727.3463767) (SYSTOR'21)
     - [Reverse Debugging of Kernel Failures in Deployed Systems](https://www.usenix.org/system/files/atc20-ge.pdf) (ATC'20)
@@ -20,6 +21,7 @@
     - [REPT: Reverse Debugging of Failures in Deployed Software](https://www.usenix.org/system/files/osdi18-cui.pdf) (OSDI'18)
     - [LAVA: Large-scale Automated Vulnerability Addition](http://css.csail.mit.edu/6.858/2018/readings/lava.pdf) (S&P'16)
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures ](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf) (SOSP'15)
+    - [Using likely invariants for automated software fault localization](https://dl.acm.org/doi/pdf/10.1145/2499368.2451131)(ASPLOS‘13)
     - [Hardware Breakpoint (or watchpoint) usage in Linux Kernel](https://www.kernel.org/doc/ols/2009/ols2009-pages-149-158.pdf) (Proceedings of the
 Linux Symposium 2009)
     - [Guest Operatiing System Debugging](https://git.ece.iastate.edu/data-storage-lab/dsl-techhub/fault-injection/-/blob/master/paper/01x10-David_Hildebrand-Guest-operating_system_debugging.pdf)
